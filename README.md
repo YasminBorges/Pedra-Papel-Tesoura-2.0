@@ -1,5 +1,5 @@
 # Pedra-Papel-Tesoura-2.0
-# ⚛️ React
+# ⚛️ React Native
 Estudos em React:
 
 ## 🎮 Jogo Pedra,Papel,Tesoura 2.0
